@@ -2,6 +2,7 @@
 
 ## July 22, 2026
 
+- Added the NorthReach “NR” mark as the browser-tab favicon across every page.
 - Replaced the homepage hero with a sharper, high-resolution North Houston residential image with no text, logos, blur, or watermarks.
 - Replaced the “Who We Are” visual with a photorealistic image of completed contemporary North Houston townhomes.
 - Removed every visible link to current investment opportunities.
